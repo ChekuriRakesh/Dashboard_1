@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrainingStatusContent xmlns:xsi="http://w3.org.com/2001/XMLSchema-instance" xmlns:xsd="http://w3.org.com/2001/XMLSchema">
+<TrainingStatusLinks>
+<TrainingStatusLink>
+<image>Trainging.png</image>
+<title>Training Transcript</title>
+<description> See What To You Have Done</description>
+</TrainingStatusLink>
+<TrainingStatusLink>
+<image>Calander.png</image>
+<title>Training Schedule</title>
+<description>See What To You Have Yet To Do</description>
+</TrainingStatusLink>
+<TrainingStatusLink>
+<image>Upcoming.png</image>
+<title>Training Analysis</title>
+<description>See The Recommended Courses</description>
+</TrainingStatusLink>
+</TrainingStatusLinks>
+</TrainingStatusContent>

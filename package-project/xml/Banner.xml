@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BannerContent xmlns:xsi="http://w3.org.com/2001/XMLSchema-instance" xmlns:xsd="http://w3.org.com/2001/XMLSchema">
+    <Banners>
+        <Banner>
+            <Image>banner-active.png</Image>
+            <Title>Social Learning Strategies</Title>
+            <Description>Social learning theory is a theory of learning process and social behavior which proposes that new behaviors can be acquired by observing and imitating others </Description>      
+        </Banner>
+        <Banner>
+            <Image>banner-item1.png</Image>
+            <Title>Social Learning Strategies</Title>
+            <Description>Social learning theory is a theory of learning process and social behavior which proposes that new behaviors can be acquired by observing and imitating others</Description>      
+        </Banner>
+        <Banner>
+            <Image>banner3.jpg</Image>
+            <Title>Social Learning Strategies</Title>
+            <Description>Social learning theory is a theory of learning process and social behavior which proposes that new behaviors can be acquired by observing and imitating others</Description>      
+        </Banner>
+    </Banners>
+</BannerContent>

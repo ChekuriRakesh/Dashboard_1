@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopularCoursesContent xmlns:xsi="http://w3.org.com/2001/XMLSchema-instance" xmlns:xsd="http://w3.org.com/2001/XMLSchema">
+<PopularCourseHeading> POPULAR COURSES</PopularCourseHeading>
+<PopularCourses>
+<PopularCourse>
+<image>compliance.jpg</image>
+<title>CONFLICT RESOLUTION  SKILLS</title>
+<description>Conflict resolution is the process by which two or more parties engaged in a disagreement, dispute, or debate reach an agreement resolving it.  </description>
+<message>Course Type:WBT</message>
+<icon>icon.png</icon>
+<number>32</number>
+</PopularCourse>
+<PopularCourse>
+<image>diversity.jpg</image>
+<title>LATERAL THINKING IN  BUSINESS</title>
+<description>Lateral thinking is a business strategy that involves approaching a problem from a different direction </description>
+<message>Course Type:WBT</message>
+<icon>icon.png</icon>
+<number>26</number>
+</PopularCourse>
+<PopularCourse>
+<image>mission.jpg</image>
+<title>CHANGE  MANAGEMENT</title>
+<description> Change management is a systematic approach to dealing with the transition or transformation of an organization's goals, processes or technologies.</description>
+<message>Course Type:WBT</message>
+<icon>icon.png</icon>
+<number>20</number>
+</PopularCourse>
+<PopularCourse>
+<image>productndservices.jpg</image>
+<title>ORGANIZATION BEHAVIOUR</title>
+<description> Organizational behavior is the study of how people interact within groups and its principles are used to make businesses operate more effectively.</description>
+<message>Course Type:WBT</message>
+<icon>icon.png</icon>
+<number>16</number>
+</PopularCourse>
+
+</PopularCourses>
+</PopularCoursesContent>

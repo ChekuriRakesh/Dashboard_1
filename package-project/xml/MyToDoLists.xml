@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyToDoListContent xmlns:xsi="http://w3.org.com/2001/XMLSchema-instance" xmlns:xsd="http://w3.org.com/2001/XMLSchema">
+<MyToDoListHeading> MY TO DO</MyToDoListHeading>
+<MyToDoLists>
+<MyToDoList>
+<tag>InProgress</tag>
+
+<image>network.png</image>
+<title>NETWORK SECURITY</title>
+<content>CourseType</content>
+<contentText>WBT Course</contentText>
+<date>Due Date</date>
+<dateValue>12-09-2017</dateValue>
+<button>Start</button>
+
+</MyToDoList>
+<MyToDoList>
+<tag>Registered</tag>
+<image>mobile.png</image>
+<title>MOBILE LEARNING</title>
+<content>CourseType</content>
+<contentText>ILT Course</contentText>
+<date>Due Date</date>
+<dateValue>12-12-2017</dateValue>
+<button>Start</button>
+</MyToDoList>
+<MyToDoList>
+<tag>InProgress</tag>
+<image>marketing.png</image>
+<title>MARKETING</title>
+<content>CourseType</content>
+<contentText>ILT Course</contentText>
+<date>Due Date</date>
+<dateValue>12-12-2017</dateValue>
+<button>Start</button>
+</MyToDoList>
+<MyToDoList>
+<tag>Registered</tag>
+<image>management.png</image>
+<title>CHANGE MANAGEMENT </title>
+<content>CourseType</content>
+<contentText>ILT Course</contentText>
+<date>Due Date</date>
+<dateValue>12-12-2017</dateValue>
+<button>Start</button>
+</MyToDoList>
+<MyToDoList>
+<tag>InProgress</tag>
+<image>business.png</image>
+<title>BUSINESS LAW CONCEPTS</title>
+<content>CourseType</content>
+<contentText>ILT Course</contentText>
+<date>Due Date</date>
+<dateValue>12-12-2017</dateValue>
+<button>Start</button>
+</MyToDoList>
+<MyToDoList>
+<tag>Registered</tag>
+<image>development.png</image>
+<title>BUSINESS DEVELOPMENT</title>
+<content>CourseType</content>
+<contentText>ILT Course</contentText>
+<date>Due Date</date>
+<dateValue>12-12-2017</dateValue>
+<button>Start</button>
+</MyToDoList>
+</MyToDoLists>
+</MyToDoListContent>

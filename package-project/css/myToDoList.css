@@ -1,0 +1,47 @@
+.inprogress {
+    background-color: teal;
+}
+
+.registered {
+    background-color: rgb(81, 81, 167)
+}
+
+.tag {
+    color: white;
+    width: 100px;
+    text-align: center;
+}
+
+.btn {
+    margin-left: 10px;
+    background-color: rgb(251, 161, 114);
+    color: white;
+    padding: 2px 25px;
+}
+
+#pointer {
+    width: 100px;
+    height: 20px;
+    position: relative;
+    margin: 10px;
+}
+
+#pointer:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 12px solid white;
+    border-top: 12px solid transparent;
+    border-bottom: 10px solid transparent;
+}
+
+.list-block {
+    padding: 10px;
+}
+
+.list {
+    box-shadow: 2px 1px 8px rgb(134, 133, 133);
+}

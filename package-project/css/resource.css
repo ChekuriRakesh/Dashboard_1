@@ -1,0 +1,22 @@
+.Resources {
+    margin-top: 10px;
+}
+
+#Resource-panel {
+    padding-bottom: 0px !important;
+}
+
+.block-image {
+    margin-left: 30px;
+}
+
+.icon-title {
+    text-align: center;
+    font-size: 14px;
+    margin: 5px;
+}
+
+.Resourceimg-div {
+    position: relative;
+    height: 115px;
+}

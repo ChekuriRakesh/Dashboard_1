@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourceContent xmlns:xsi="http://w3.org.com/2001/XMLSchema-instance" xmlns:xsd="http://w3.org.com/2001/XMLSchema">
+<ResourceHeading> RESOURCES</ResourceHeading>
+<Resources>
+<Resource>
+<image>Layer 8.png</image>
+<title>Integration to Big Data</title>
+</Resource>
+<Resource>
+<image>Layer 6.png</image>
+<title>Business Law Concepts</title>
+</Resource>
+<Resource>
+<image>Layer 9.png</image>
+<title>Systems Thinking</title>
+</Resource>
+<Resource>
+<image>Layer 5.png</image>
+<title>Network Security</title>
+</Resource>
+<Resource>
+<image>Layer 10.png</image>
+<title>Marketing Analysis</title>
+</Resource>
+<Resource>
+<image>Layer 7.png</image>
+<title>Marketing</title>
+</Resource>
+</Resources>
+</ResourceContent>
